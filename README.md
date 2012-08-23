@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/stanislavfeldman/dust.js.png)](http://travis-ci.org/stanislavfeldman/dust.js)
 Dust
 ====
 
